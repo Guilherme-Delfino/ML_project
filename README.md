@@ -1,6 +1,6 @@
 # ML_project
 
-Authors: Domink Vuina and Guilherme Delfino
+Authors: Domink Vuina and Guilherme Delfino, May 2022
 
 This is our work submitted as the Final Project for the course PY 580 Machine Learning for Physicists.
 The course was ministred in Spring 2022 at Boston University by the Prof. Pankaj Mehta, PhD.
